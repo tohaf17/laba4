@@ -1,0 +1,15 @@
+C:\Users\Filip\OneDrive\Робочий стіл\ЧНУ\ПАЛМ\Laba4\Extra2\bin\Debug\net6.0\Extra2.exe
+C:\Users\Filip\OneDrive\Робочий стіл\ЧНУ\ПАЛМ\Laba4\Extra2\bin\Debug\net6.0\Extra2.deps.json
+C:\Users\Filip\OneDrive\Робочий стіл\ЧНУ\ПАЛМ\Laba4\Extra2\bin\Debug\net6.0\Extra2.runtimeconfig.json
+C:\Users\Filip\OneDrive\Робочий стіл\ЧНУ\ПАЛМ\Laba4\Extra2\bin\Debug\net6.0\Extra2.dll
+C:\Users\Filip\OneDrive\Робочий стіл\ЧНУ\ПАЛМ\Laba4\Extra2\bin\Debug\net6.0\Extra2.pdb
+C:\Users\Filip\OneDrive\Робочий стіл\ЧНУ\ПАЛМ\Laba4\Extra2\obj\Debug\net6.0\Extra2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Filip\OneDrive\Робочий стіл\ЧНУ\ПАЛМ\Laba4\Extra2\obj\Debug\net6.0\Extra2.AssemblyInfoInputs.cache
+C:\Users\Filip\OneDrive\Робочий стіл\ЧНУ\ПАЛМ\Laba4\Extra2\obj\Debug\net6.0\Extra2.AssemblyInfo.cs
+C:\Users\Filip\OneDrive\Робочий стіл\ЧНУ\ПАЛМ\Laba4\Extra2\obj\Debug\net6.0\Extra2.csproj.CoreCompileInputs.cache
+C:\Users\Filip\OneDrive\Робочий стіл\ЧНУ\ПАЛМ\Laba4\Extra2\obj\Debug\net6.0\Extra2.sourcelink.json
+C:\Users\Filip\OneDrive\Робочий стіл\ЧНУ\ПАЛМ\Laba4\Extra2\obj\Debug\net6.0\Extra2.dll
+C:\Users\Filip\OneDrive\Робочий стіл\ЧНУ\ПАЛМ\Laba4\Extra2\obj\Debug\net6.0\refint\Extra2.dll
+C:\Users\Filip\OneDrive\Робочий стіл\ЧНУ\ПАЛМ\Laba4\Extra2\obj\Debug\net6.0\Extra2.pdb
+C:\Users\Filip\OneDrive\Робочий стіл\ЧНУ\ПАЛМ\Laba4\Extra2\obj\Debug\net6.0\Extra2.genruntimeconfig.cache
+C:\Users\Filip\OneDrive\Робочий стіл\ЧНУ\ПАЛМ\Laba4\Extra2\obj\Debug\net6.0\ref\Extra2.dll

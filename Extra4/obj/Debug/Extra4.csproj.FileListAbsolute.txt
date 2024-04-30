@@ -1,0 +1,10 @@
+C:\Users\Filip\OneDrive\Робочий стіл\ЧНУ\ПАЛМ\Laba4\Extra4\bin\Debug\Extra4.exe.config
+C:\Users\Filip\OneDrive\Робочий стіл\ЧНУ\ПАЛМ\Laba4\Extra4\bin\Debug\Extra4.exe
+C:\Users\Filip\OneDrive\Робочий стіл\ЧНУ\ПАЛМ\Laba4\Extra4\bin\Debug\Extra4.pdb
+C:\Users\Filip\OneDrive\Робочий стіл\ЧНУ\ПАЛМ\Laba4\Extra4\obj\Debug\Extra4.csproj.AssemblyReference.cache
+C:\Users\Filip\OneDrive\Робочий стіл\ЧНУ\ПАЛМ\Laba4\Extra4\obj\Debug\Extra4.Form1.resources
+C:\Users\Filip\OneDrive\Робочий стіл\ЧНУ\ПАЛМ\Laba4\Extra4\obj\Debug\Extra4.Properties.Resources.resources
+C:\Users\Filip\OneDrive\Робочий стіл\ЧНУ\ПАЛМ\Laba4\Extra4\obj\Debug\Extra4.csproj.GenerateResource.cache
+C:\Users\Filip\OneDrive\Робочий стіл\ЧНУ\ПАЛМ\Laba4\Extra4\obj\Debug\Extra4.csproj.CoreCompileInputs.cache
+C:\Users\Filip\OneDrive\Робочий стіл\ЧНУ\ПАЛМ\Laba4\Extra4\obj\Debug\Extra4.exe
+C:\Users\Filip\OneDrive\Робочий стіл\ЧНУ\ПАЛМ\Laba4\Extra4\obj\Debug\Extra4.pdb
